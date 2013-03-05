@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_data
+Disallow: /_scripts
+Disallow: /_styles
+Disallow: /search
+Disallow: /signin

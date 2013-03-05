@@ -1,0 +1,20 @@
+/* TEAM */
+Company:
+Website: 
+Twitter: 
+Email: 
+Location: 
+
+Design+HTML5+CSS3+JavaScript+PHP+MySQL:
+Website: 
+Twitter: 
+Location: 
+
+/* THANKS */
+
+
+/* SITE */
+Last update:
+Standard: 
+Components: 
+Software: 
